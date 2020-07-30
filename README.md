@@ -1,5 +1,5 @@
-# CRYENGINE
-This repository houses the source code for CRYENGINE.
+# CRYENGINE SteelGhost Branch
+This repository houses the clone of the source code for CRYENGINE maid by SteelGhost.
 
 Instructions on getting started with git can be found [here](http://docs.cryengine.com/display/CEPROG/Getting+Started+with+git), along with details on working with launcher projects and git source code.
 
